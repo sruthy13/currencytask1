@@ -3,7 +3,7 @@
 	box-sizing: border-box;
 }
 body {
-	background: beige
+	background: silver;
 	font-family: 'Muli', sans-serif;
 	display: flex;
 	flex-direction: column;
